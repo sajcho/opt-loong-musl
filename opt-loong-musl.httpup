@@ -1,0 +1,6 @@
+# opt-loong-musl ports collection
+#
+# https://github.com/sajcho/opt-loong-musl
+
+ROOT_DIR=/usr/ports/opt-loong-musl
+URL=https://raw.githubusercontent.com/sajcho/opt-loong-musl/main
