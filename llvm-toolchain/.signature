@@ -1,0 +1,5 @@
+untrusted comment: verify with opt-loong-musl.pub
+RWTJQBl3WtkDjKJsrWaLx5AxgkWL0/W5EGvmkd4NEGT09jVH5OVSJyGWBEM//jmCSxYUMjnRn6dyBXDOlgCRt/J6HQQq39UTJgk=
+SHA256 (Pkgfile) = 2abad4f4047d102d295171ac5e2a8d654adfe4b89eb83b74cbe347d87b7e0751
+SHA256 (.footprint) = ae873a8fbd059cf22e992597c4f46372d22d30903528f84ab3104fbfeeedd9f7
+SHA256 (llvm-project-18.1.8.src.tar.xz) = 0b58557a6d32ceee97c8d533a59b9212d87e0fc4d2833924eb6c611247db2f2a
