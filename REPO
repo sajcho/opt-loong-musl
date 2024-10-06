@@ -1,7 +1,9 @@
 d:python3-docutils
 d:glib
+d:llvm-toolchain
 d:mc
 d:libssh2
+d:lld
 f:9445a8e74d76c136fd5dc534ac68dc72:python3-docutils/.footprint
 f:bde4cfd2ffd171986c172a26f4b0e76f:python3-docutils/.signature
 f:b0438db98cb1a9237ca5448706840fa7:python3-docutils/Pkgfile
@@ -11,6 +13,10 @@ f:ebd1ee90e4f81e6c6cc03c29ab8b6bea:glib/gschemas.compiled
 f:31e04766e1b64c534dbbe917e8abe9af:glib/.signature
 f:886ea44a6cb2f2a03ea5248881969275:glib/Pkgfile
 f:08b95225e98724a67fb2c765acea8ef9:glib/deprecated-no-warn.patch
+f:42382af29f5559f667fda87c1b87b599:llvm-toolchain/.footprint
+f:a352329a3a7aa1dd2bd29f0277a70f13:llvm-toolchain/.signature
+f:b4051d1d0bc60868a07104d4f2584124:llvm-toolchain/Pkgfile
+f:3a56a4e09450a4bc9e2a6d17478f8679:llvm-toolchain/README
 f:b1af27844151ffb862dd5d059dacfb4a:mc/.footprint
 f:3c85b6c3a40103f602c80d9f52df6b09:mc/.signature
 f:b8eb6dabcb86275f637ae487a2aaa3e0:mc/Pkgfile
@@ -20,3 +26,6 @@ f:86a09a90e389728dcad96fb8d9055cc7:libssh2/.signature
 f:e8f9ea90608a8c686b12de8468970f7c:libssh2/disable-DSA-by-default.patch
 f:51ca9dbb9b8951cc21a28de8f519a1f7:libssh2/add-strict-KEX-to-fix-CVE-2023-48795-Terrapin-Attack.patch
 f:1bce2d658a76553723aed85870f441e7:libssh2/Pkgfile
+f:e942ebcafc3d7099a2e417c305bed664:lld/.footprint
+f:af0be29059cdd458d17d1d3af03c27a9:lld/.signature
+f:cd41fa27db51fee955025b9ed2449a1b:lld/Pkgfile
