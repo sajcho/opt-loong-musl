@@ -1,0 +1,6 @@
+untrusted comment: verify with opt-loong-musl.pub
+RWTJQBl3WtkDjH7QjD6xWwZxkjpfEC2AFmgD0B2ZkgTpHCbo+fvixDDE1SuKl+Og4it68B8AFnU3XXEkrNHCdJMt/Rf5LRUFhws=
+SHA256 (Pkgfile) = 1a837ef9f5920454604cdd24af8afe1d622c9eef0133f4a24d0bd19619a50731
+SHA256 (.footprint) = 3f86c52fc145c000af752f0d60b969186e93f6408e81d05cee573a403ea3eedc
+SHA256 (mc-4.8.32.tar.xz) = 4ddc83d1ede9af2363b3eab987f54b87cf6619324110ce2d3a0e70944d1359fe
+SHA256 (saux_syntax.patch) = a7139d5a37e22d10b84ee1ac65cb85c4cf6715acdebd11dcd364d8ded93bda6a

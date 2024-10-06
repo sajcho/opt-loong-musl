@@ -1,0 +1,7 @@
+untrusted comment: verify with opt-loong-musl.pub
+RWTJQBl3WtkDjJSBbkrk0dEd5Lrg/QtrTVivIzVvw1ZPyqnGmNITxTYbXYnqemEUJ8lKsl3WKd6Z48rW8NjOWpE6Jv74A69glQY=
+SHA256 (Pkgfile) = 1d632f22626642e751f3d5026795de01ab83ba0702f4e8236e4d698ce287ea63
+SHA256 (.footprint) = ad378a9a69c454f2194bda28fcb2ce7b48fdb52ab98525d9d72256038133a585
+SHA256 (glib-2.82.1.tar.xz) = 478634440bf52ee4ec4428d558787398c0be6b043c521beb308334b3db4489a6
+SHA256 (gobject-introspection-1.82.0.tar.xz) = 0f5a4c1908424bf26bc41e9361168c363685080fbdb87a196c891c8401ca2f09
+SHA256 (deprecated-no-warn.patch) = 0f52f456c8c91281fee33d99fc02799faf90d2f374a896b728abd5913aa5f9dc
