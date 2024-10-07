@@ -1,3 +1,5 @@
+d:ruby
+d:yaml
 d:python3-docutils
 d:rust-forge
 d:glib
@@ -6,6 +8,12 @@ d:mc
 d:libssh2
 d:lld
 d:rust
+f:5f683ac02a7ad43013df61ed13f1c0fb:ruby/.footprint
+f:302eaaf08842ba50803766b7752308a0:ruby/.signature
+f:0d39df911329958480ae434196555fe2:ruby/Pkgfile
+f:ca9c5a6090ba3b199758360c9114d854:yaml/.footprint
+f:8f18fef3b21d806994c66a25964d98e4:yaml/.signature
+f:85ce0704e5748c5f6e04c7450dc473c0:yaml/Pkgfile
 f:9445a8e74d76c136fd5dc534ac68dc72:python3-docutils/.footprint
 f:bde4cfd2ffd171986c172a26f4b0e76f:python3-docutils/.signature
 f:b0438db98cb1a9237ca5448706840fa7:python3-docutils/Pkgfile
