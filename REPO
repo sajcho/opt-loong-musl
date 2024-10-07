@@ -7,6 +7,7 @@ d:nodejs-lts
 d:rpcbind
 d:gnupg
 d:python3-docutils
+d:gobject-introspection
 d:c-ares
 d:pinentry
 d:rust-forge
@@ -55,6 +56,9 @@ f:f1b5581273bf04654027f677aee35876:gnupg/Pkgfile
 f:9445a8e74d76c136fd5dc534ac68dc72:python3-docutils/.footprint
 f:bde4cfd2ffd171986c172a26f4b0e76f:python3-docutils/.signature
 f:b0438db98cb1a9237ca5448706840fa7:python3-docutils/Pkgfile
+f:d779b6449fc406d915acdbaa0329b1a7:gobject-introspection/.footprint
+f:71404fcd57d1ba8c2b3f6487ca1ec72a:gobject-introspection/.signature
+f:3a2d3ecdcb5198f55368c2e387c0f82d:gobject-introspection/Pkgfile
 f:1aaf778bfa136bd98032ca881fb67d0e:c-ares/.footprint
 f:6e6cdd0a32a49157c72ee6847ba50543:c-ares/.signature
 f:4f5f11053c09b9371dd3a1faf08af096:c-ares/Pkgfile
