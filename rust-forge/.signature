@@ -1,0 +1,5 @@
+untrusted comment: verify with opt-loong-musl.pub
+RWTJQBl3WtkDjG0sn9mghVpxiuSG7DYYK8Ve9ewPolx9Qs4OK9jrOqyhw/JDUyFqbdK6GOcA8a9qwTZiEOMxgYtbHfwz55TkPQI=
+SHA256 (Pkgfile) = 5ca8eff8df49143aa72158b6bb36cfccb3c0bb198b985dc187711abef2f5d4d1
+SHA256 (.footprint) = 2042d85612fb45e06c390a1d5c66f8fe6a2d56e8c57e596ba37fe86aa8909725
+SHA256 (rust-1.81.0-loongarch64-unknown-linux-musl.tar.xz) = 1455d99f97160bff7d87f4eebd06b5ad79c116fbd7c63cce465c4e68d4190b31

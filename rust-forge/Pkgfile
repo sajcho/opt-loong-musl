@@ -1,0 +1,18 @@
+# Description:	Rust Forge - prebuilt binary loongarch64-unknown-linux-musl
+# URL:		https://forge.rust-lang.org/infra/other-installation-methods.html#standalone
+# Maintainer:	sajcho, saux dot aarch64 at gmail dot com
+# Depends on:	llvm-toolchain
+
+name=rust-forge
+_realname=rust
+_triplet=loongarch64-unknown-linux-musl
+version=1.81.0
+release=1
+
+source=(https://static.rust-lang.org/dist/rust-1.81.0-loongarch64-unknown-linux-musl.tar.xz)
+
+build() {
+	cd ${_realname}-${version}-${_triplet}
+
+	./install.sh --prefix=/usr --destdir=$PKG
+}
